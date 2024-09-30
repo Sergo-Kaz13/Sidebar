@@ -1,1 +1,1 @@
-![sidebar] ('./sidebar.png')
+![sidebar](./sidebar.png)
